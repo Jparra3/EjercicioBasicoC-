@@ -1,0 +1,6 @@
+c:\users\jhonatan\documents\visual studio 2015\Projects\EjercicioBasico\EjercicioBasico\bin\Debug\EjercicioBasico.exe.config
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\EjercicioBasico\EjercicioBasico\bin\Debug\EjercicioBasico.exe
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\EjercicioBasico\EjercicioBasico\bin\Debug\EjercicioBasico.pdb
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\EjercicioBasico\EjercicioBasico\obj\Debug\EjercicioBasico.csprojResolveAssemblyReference.cache
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\EjercicioBasico\EjercicioBasico\obj\Debug\EjercicioBasico.exe
+C:\Users\Jhonatan\Documents\Visual Studio 2015\Projects\EjercicioBasico\EjercicioBasico\obj\Debug\EjercicioBasico.pdb
